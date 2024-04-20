@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)](https://rishavchanda.io)
+[![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)]
 <h1 align="center">Hi 👋, I'm ARAVIND</h1>
 <h3 align="center">A passionate Data Analyst from Coimbatore</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
