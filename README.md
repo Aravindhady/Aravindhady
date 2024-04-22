@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravindhady" alt="aravindhady" /></a> </p>
 
-- 🔭 I’m currently working on [Business analyst](https://github.com/Aravindhady/PIZZA-SALES-)
+- 🔭 I’m currently working on [Advance Data Analyst project](https://github.com/Aravindhady/PIZZA-SALES-)
 
 - 🌱 I’m currently learning **data science course**
 
